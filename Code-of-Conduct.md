@@ -34,7 +34,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can [__contact them here__] (margeaux@civicdataalliance.org). Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can [__contact them here__](margeaux@civicdataalliance.org). Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
@@ -54,7 +54,8 @@ You can reach me at (CONTACT INFO). Thank you.
 We recognise that everyone makes mistakes. We are forgiving, but not lenient. Repeated violations of these rules will results in any actions deemed appropriate by moderators, including warning the offender and removal from the community.
 
 1. WE ARE INCLUSIVE
-Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, and victim blaming. Do not make exclusionary jokes, not even ironically.
+Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, and victim blaming. Do not make exclusionary jokes, not even ironically.  
+
 2. WE ARE INTERSECTIONAL
 We expect you to be willing to examine your privilege, language and other habits while you are here, and work on a growing understanding of intersectional feminism. We aim to be a place of learning, but we also expect you to do a lot of the grunt work of understanding basic concepts yourself; use the resources made available to you, search the group for any previous discussions, and search the Internet.
 
