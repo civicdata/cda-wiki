@@ -99,3 +99,5 @@ If someone violates these rules, report them as soon as possible to one of the r
 
 12. HANDLING ADMIN AND MODERATOR MISCONDUCT
 CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.
+
+this doucment borrows heavlity from http://www.thefeministclub.nl/coc/ :sparkling_heart: 
