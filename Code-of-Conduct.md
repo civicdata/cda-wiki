@@ -94,4 +94,4 @@ If someone violates these rules, report them as soon as possible to one of the r
 CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.
 
 
-:sparkling_heart: _This document is based on_ [Geek Feminism wiki](http://www.thefeministclub.nl/coc/) :sparkling_heart:
+:sparkling_heart: _This document is based on the_ [Geek Feminism wiki](http://www.thefeministclub.nl/coc/) :sparkling_heart:
