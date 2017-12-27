@@ -57,40 +57,40 @@ You can reach me at (CONTACT INFO). Thank you.
 
 We recognise that everyone makes mistakes. We are forgiving, but not lenient. Repeated violations of these rules will results in any actions deemed appropriate by moderators, including warning the offender and removal from the community.
 
-1. *WE ARE INCLUSIVE:*
+1. **WE ARE INCLUSIVE:**
 Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, and victim blaming. Do not make exclusionary jokes, not even ironically.  
 
-2. *WE ARE INTERSECTIONAL:*
+2. **WE ARE INTERSECTIONAL:**
 We expect you to be willing to examine your privilege, language and other habits while you are here, and work on a growing understanding of intersectional feminism. We aim to be a place of learning, but we also expect you to do a lot of the grunt work of understanding basic concepts yourself; use the resources made available to you, search the group for any previous discussions, and search the Internet.
 
-3. *THIS IS A SAFE SPACE:*
+3. **THIS IS A SAFE SPACE:**
 We aim to be a safe space for all our members. We consider impact before intent, and prioritize the safety of marginalised people over the comfort of the privileged. This means that, especially as a white person, you might be called out on problematic behavior. Do not confuse the discomfort this brings with being ‘unsafe’. We expect you to get explicit, enthusiastic consent for any manner of physical contact, including sexual attention, and simulated physical contact in online conversations. Respect boundaries, including, but not limited to, the withdrawal of consent at any time.
 
-4. *RESPECT PRIVACY:*
+4. **RESPECT PRIVACY:**
 Communication within this space is considered private, and each member is free to decide how much, or how little, they want to share. Do not share photos, screenshots, conversations or other information shared within the group with people outside of our community without the explicit consent of all involved. If you have received permission in the past, ask again; circumstances may have changed, and information may no longer be valid.
 
-5. *RESPECT OTHER PEOPLE’S CHOICES:*
+5. **RESPECT OTHER PEOPLE’S CHOICES:**
 Do not pressure people into doing or trying things they are not comfortable with. Do not mock or denigrate other people’s choices in sexual orientation, gender expression, relationships, employment, style & dress, religion, food & drink, entertainment, or other lifestyle choices. Your path is not theirs, and the options available to them may well be more limited than yours. Respect the agency of others, always, but especially if you disagree.
 
-6. *NOT ALL OPINIONS ARE EQUAL:*
+6. **NOT ALL OPINIONS ARE EQUAL:**
 We give no quarter to harmful opinions, and will not entertain anyone ‘debating’ their merits. This includes ‘reverse’ anything, whether it’s racism, sexism, or any other axis, as well as white supremacy, white feminism, exclusionary radical feminism of any kind, anti-semitism, any kind of apologism, and the use of ableist language. We respect a woman’s right to make her own choices about her own body. We celebrate the full spectrum of gender expression, sexual orientation, and attraction.
 
-7. *ANGER IS VALID, AGGRESSION IS NOT:*
+7. **ANGER IS VALID, AGGRESSION IS NOT:**
 The expression of justified anger will not to be policed within this space. Tone policing and the expectation of politeness have long been used as tools for oppression, as reasons for dismissal of valid arguments, and we will not be complicit in propagating that behavior. There is no room for aggression, however; do not let your anger tempt you into violating the rules of this space.
 
-8. *BE EMPATHETIC:*
+8. **BE EMPATHETIC:**
 We are all learning to be more compassionate, empathetic beings. When someone brings your attention to problematic behavior, thank them, and apologize. Ask permission to ask for clarification or suggestions for how to do better in the future. Do not debate or argue; even if you disagree.
 
-9. *MODERATORS:*
+9. **MODERATORS:**
 To make sure that the spaces we provide for discussion, whether it’s the Facebook group or an event like a discussion night or film screening, remain safe, we have moderators who will monitor discussions, and intervene if they get out of hand. They have the ability to lock comments on a post, remove a post completely, or remove someone from the group if they are violation of this code of conduct, if that someone is not responsive to warnings. These moderators are volunteers, and, in most cases, will participate like everyone else. If they intervene, however, they assume the greater responsibility that comes with their greater powers, and their word will be law. You are expected to comply, even if you disagree. If you consider a particular intervention to be in violation of these rules, see #11 and #12.
 
-10. *GROUNDS FOR IMMEDIATE REMOVAL:*
+10. **GROUNDS FOR IMMEDIATE REMOVAL:**
 We do not condone threats, violence, hate speech, harrassment, or any other actions that are deemed by moderators to have caused significant harm or distress to members of this group. Such actions are grounds for immediate removal.
 
-11. *REPORTING VIOLATIONS:*
+11. **REPORTING VIOLATIONS:**
 If someone violates these rules, report them as soon as possible to one of the responsible moderators. For the Facebook group, this is best done by reporting the post via its ‘report to admin’ feature. It you are on Twitter, this is best accomplished by sending a DM to CDA's Twitter account. If you are attending an event, contact one of the organisers.
 
-12. *HANDLING ADMIN AND MODERATOR MISCONDUCT:*
+12. **HANDLING ADMIN AND MODERATOR MISCONDUCT:**
 CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.
 
 
