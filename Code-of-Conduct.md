@@ -49,9 +49,9 @@ We value your attendance and hope that by communicating these expectations widel
 #### Email Template for Anti-Harassment Reporting
 
 >SUBJECT: Safe Space alert at Civic Data Alliance
-
+>
 >I am writing because of harassment at a CDA/Code for America Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
-
+>
 > You can reach me at (CONTACT INFO). Thank you.
 
 ## In addition to the CfA CoC, CDA observes and enforces the following:
