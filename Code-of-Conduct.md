@@ -1,3 +1,5 @@
+![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
+
 # Code of Conduct
 
 _This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._
