@@ -10,7 +10,8 @@ _This is a living document and as such, it can and will be adjusted by Civic Dat
 * Are a place where people are free to fully express their identities.
 * Presume the value of others. Everyone’s ideas, skills, and contributions have value.
 * Don’t assume everyone has the same context, and encourage questions.
-* Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
+* Find a way for people to be productive with their skills (technical and not) and energy.
+* Use language such as “yes/and”, not “no/but.”
 * Encourage members and participants to listen as much as they speak.
 * Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
 * Prioritize access for and input from those who are traditionally excluded from the civic process.
@@ -47,11 +48,11 @@ We value your attendance and hope that by communicating these expectations widel
 
 #### Email Template for Anti-Harassment Reporting
 
-SUBJECT: Safe Space alert at Civic Data Alliance
+>SUBJECT: Safe Space alert at Civic Data Alliance
 
-I am writing because of harassment at a CDA/Code for America Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
+>I am writing because of harassment at a CDA/Code for America Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
 
-You can reach me at (CONTACT INFO). Thank you.
+> You can reach me at (CONTACT INFO). Thank you.
 
 ## In addition to the CfA CoC, CDA observes and enforces the following:
 
