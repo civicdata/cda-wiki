@@ -1,5 +1,3 @@
-<center><img src="https://github.com/civicdata/branding/blob/master/assets/Logo/Rendered_Cube_Full_1200.png" width="200" height="200"> </center>
-
 # Code of Conduct
 
 _This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._
