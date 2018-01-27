@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-* [Introduction](#-introduction)
-* [The Civic Data Alliance](#-the-civic-data-alliance)
-* [Getting Started](#-getting-started)
-* [How You Can Expect to Benefit](#-how-you-can-expect-to-benefit)
-* [Growing the Civic Data Alliance](#-growing-the-civic-data-alliance)
-* [Embracing Strengths and Recognizing Weaknesses](#-embracing-strengths-and-recognizing-weaknesses)
-* [What Next](#-what-next)
+* [Introduction](#introduction)
+* [The Civic Data Alliance](#the-civic-data-alliance)
+* [Getting Started](#getting-started)
+* [How You Can Expect to Benefit](#how-you-can-expect-to-benefit)
+* [Growing the Civic Data Alliance](#growing-the-civic-data-alliance)
+* [Embracing Strengths and Recognizing Weaknesses](#embracing-strengths-and-recognizing-weaknesses)
+* [What Next](#what-next)
 
 ## Introduction
 
