@@ -41,17 +41,37 @@ Every project should include documentation with, at a minimum, these included:
 * A list of technologies being used in the project.
 * At least one point of contact for the project.
 * A list of public partners working on the project.
+* Contribute guidelines that outline the workflow used and permissions needed to work on a project. Our default recommendation is the [Atlassian Gitflow Workflow], a simple but powerful workflow that helps ensure a stable version while other work is being done.
 
-#### A
+This information will help you either decide whether you can contribute to the project, or give you a way to find out more.
 
-* How do I find out what projects are under way?
-* Short*term vs. longterm goals?
-* What about all the things that I’m not getting done?
-* How does CDA decide what to work on?
-* Can I be included the next time CDA is deciding X?
-* Structure and Teams
-* Risks
-* What if I screw up?, But what if we ALL screw up?
+If you want to know more (or if you've already decided to work on a project) you should go to the **Issues** page of a project. There you will find open issues with descriptive labels like `feature request`, `bug`, `content`, `help wanted`, `design`, and even `good first issue`! These should you help you scan the list and find individual items you can work on.
+
+Different types of issues will require different work and files, but most of them can be housed in the project repository, and you can likely contribute through adding or changing files with a **Pull Request**. 
+
+_If you need any help with git or Github, we recommend [this video tutorial series from XYZ](), and you can always reach out to project team members or [CDA Leadership](/leadership.md)._
+
+Every project has a Slack channel in our shared workspace, with a naming convention of `#p-project-name`. If you are in the Slack app, click on `Channels` in the menu and search for `p-` to return a list of all active project channels. Click into the channel and press `Join Channel` to add it to your list of channels.
+
+These project channels are the meeting rooms and shared spaces every team needs to quickly exchange information, ask questions, pitch ideas, include non-CDA volunteer collaborators, and more. It is important to use Github and the Slack project channels to centralize as much information about a project as possible for others to reference, and to keep our processes transparent and history robust.
+
+##### What to do if your contribution breaks something
+
+First, take a deep breath. **It is okay.** This is why we use version control and a workflow system. If you know how to fix it, create an issue that describes the problem, then create a `hotfix` branch, fix the issue, and submit a new pull request documenting the problem and how you solved it. Another team member will review it, and either approve the changes or describe why more work needs to be done.
+
+If you do _not_ know how to fix it, **that is also okay.** You will need to create an issue on the project repository and assign it a label as well as a Reviewer, and contact the relevant team members - or [CDA Leadership](/leadership.md) if you need to.
+
+#### Creating a new project
+
+We recommend you work as a contributing member on an existing project first, in order to become familiar with our workflows and technologies, but there may be cases where this is not possible or necessary.
+
+If you don't see a project that interests you or that you can contribute to, you have the opportunity to start a new project! You will need to provide a description and recruit a team to get the project off the ground - and you must keep in mind that heading a project is a responsibility. Taking lead on a project is a commitment to finishing it and delivering it in a way that is accessible and usable by others.
+
+#### Participating in other ways
+
+There are a few other ways to contribute to CDA other than projects. For instance, actively engaging in the topic channels in the Slack workspace is a contribution! We love when members ask questions and share their knowledge - we strive to be a resource for everyone to access and understand technology to the best of our ability.
+
+You can also become a Core Member and get more involved in the decisions making process at different levels. Take a look at our [Membership documentation](/membership.md) to see the eligibility requirements for Core Members, as well as the elected [Leadership roles](/leadership.md) you could fill.
 
 ## Part 3: How Am I Doing?
 
