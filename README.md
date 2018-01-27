@@ -11,7 +11,7 @@ This is a living, growing document that will help you navigate all of our docume
 * [Membership](#-membership)
 * [Leadership](#%EF%B8%8F-leadership)
 * [Project Workflow Recommendations](#-project-workflow-recommendations)
-* [Media Procedure and Protocols](#-media-procedure-protocol)
+* [Media Procedure and Protocols](#-media-procedure-and-protocols)
 
 ## 👋 Introduction
 
