@@ -2,9 +2,7 @@
 
 ![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
-Opening paragraph goes here, introducing the document and its purpose. Why should we refer to this document, what is the value it brings to us as an organization? And what about the value to you as an individual?
-
-Final value message about the document, leading into the table of contents.
+This document should serve as the point of reference for any questions or concerns regarding providing interviews, statements, or comments in an official CDA capacity. It is important to distinguish personal statements and actions from those done in an official capacity, and the following guidelines will help you achieve that.
 
 ## Table of Contents
 
