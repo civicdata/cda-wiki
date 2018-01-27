@@ -5,6 +5,12 @@
 ## Table of Contents
 
 * [Introduction](#-introduction)
+* [The Civic Data Alliance](#-the-civic-data-alliance)
+* [Getting Started](#-getting-started)
+* [How You Can Expect to Benefit](#-how-you-can-expect-to-benefit)
+* [Growing the Civic Data Alliance](#-growing-the-civic-data-alliance)
+* [Embracing Strengths and Recognizing Weaknesses](#-embracing-strengths-and-recognizing-weaknesses)
+* [What Next](#-what-next)
 
 ## Introduction
 
@@ -16,7 +22,7 @@ First and foremost, thank you for joining the Civic Data Alliance (CDA) in our m
 
 The [Civic Data Alliance](www.civicdataalliance.org) is a volunteer organization working to put technology to work for the public good. We host hackathons, provide technology tools, and offer collaborative spaces to create and facilitate innovative projects that utilize technology to assist in solving public problems.
 
-_CDA is a not-for-profit organization, with registered 501(c)3 status through [Code for America]() (CfA)._
+_CDA is a not-for-profit organization, with registered 501(c)3 status [through Code for America](http://brigade.codeforamerica.org/brigade/Civic-Data-Alliance/) (CfA)._
 
 ### Why Does Our Work Matter
 
@@ -33,7 +39,7 @@ _CDA is a not-for-profit organization, with registered 501(c)3 status through [C
 
 #### Choosing a project
 
-We often have many ongoing projects with different teams of volunteers, so you will need to find some project(s) that have ways for you to contribute. Finding out what projects are underway is as simple as checking out the [Civic Data Alliance Organization on Github]() and looking through the list of repositories. Each repository is an individual project that you may be able to contribute to! 
+We often have many ongoing projects with different teams of volunteers, so you will need to find some project(s) that have ways for you to contribute. Finding out what projects are underway is as simple as checking out the [Civic Data Alliance Organization on Github](https://github.com/civicdata) and looking through the list of repositories. Each repository is an individual project that you may be able to contribute to!
 
 Every project should include documentation with, at a minimum, these included:
 
@@ -47,7 +53,7 @@ This information will help you either decide whether you can contribute to the p
 
 If you want to know more (or if you've already decided to work on a project) you should go to the **Issues** page of a project. There you will find open issues with descriptive labels like `feature request`, `bug`, `content`, `help wanted`, `design`, and even `good first issue`! These should you help you scan the list and find individual items you can work on.
 
-Different types of issues will require different work and files, but most of them can be housed in the project repository, and you can likely contribute through adding or changing files with a **Pull Request**. 
+Different types of issues will require different work and files, but most of them can be housed in the project repository, and you can likely contribute through adding or changing files with a **Pull Request**.
 
 _If you need any help with git or Github, we recommend [this video tutorial series from XYZ](), and you can always reach out to project team members or [CDA Leadership](/leadership.md)._
 
@@ -73,26 +79,28 @@ There are a few other ways to contribute to CDA other than projects. For instanc
 
 You can also become a Core Member and get more involved in the decisions making process at different levels. Take a look at our [Membership documentation](/membership.md) to see the eligibility requirements for Core Members, as well as the elected [Leadership roles](/leadership.md) you could fill.
 
-## Part 3: How Am I Doing?
+## How You Can Expect to Benefit
 
-* Your Peers and Your Contribution
-* Technical Operations
-* Project Success
+We know from experience that contributing to open source projects is benefit in career advancement, and can also increase the size of your skillset as you use new and different technologies, or find new applications for existing technologies.
 
-## Part 4: Choose Your Own Adventure
+We also know that the projects we work on have a positive impact on our city, our communities, and our citizens. There is much reward in serving the public good and using technology to give back. Take pride in the work you do with CDA!
 
-* Your First Six Months
-* Roles, Advancement vs. growth, Putting more tools in your toolbox
+However, keep in mind that work you do with CDA is not for your personal advancement - we want our members to grow, but we do not want the solutions we create to solve problem in our city to be limited by self-interest or personal ambitions.
 
-## Part 5: The Civic Data Alliance is growing
+## Growing the Civic Data Alliance
 
-* Your Most Important Role
-* Membership, Why is having the right members so important to the Civic Data Alliance? We’re looking for people stronger than ourselves.
+Perhaps your most important role in the organization will be as an advocate for the work we and our partners do, and the good it has done and will do. Remember that you represent CDA when you promote your membership and the projects CDA sponsors! And more importantly, remember that other people are listening - perhaps others who want to get involved and help affect positive change in our city!
 
-## Part 6: Epilogue
+Let people know how to sign up by providing the [Introductory documentation](/README.md) and the [Civic Data Alliance website](www.civicdataalliance.org)! Answer their questions, and it's okay if you don't the answer - you or they can always reach out to [CDA Leadership](/leadership.md)
 
-* What Is the Civic Data Alliance Not Good At?
-* What Happens When All This Stuff Doesn’t Work?
-* Where Will You Take Us?
+## Embracing Strengths and Recognizing Weaknesses
 
-## Glossary
+Our strength lies in our collective expertise and energy to create accessible solutions to public problems. We have municipal and other partners that allow us to work _with_ our city in a nonpartisan way, provide space for events and working on projects, offer technology tools for volunteer use, and access vast amounts of data that can be tapped for our projects.
+
+Our weaknesses lie in our nature as a volunteer organization - we rely on your honest commitment and use an honor system for contributions and collaboration. We do not have massive amounts of resources to throw at a problem, so our solutions must be creative and create as small an amount of [technical debt](https://en.wikipedia.org/wiki/Technical_debt) as possible.
+
+By recognizing our weaknesses and embracing our strengths, the solutions we build are inclusive and forward-thinking.
+
+## What Next
+
+Join us in our Slack workspace by completing the [membership signup](https://cda2.typeform.com/to/zTNiLP) and we will get to work! We are so happy to have you with us, and we hope you share our excitement for the possibilities!
