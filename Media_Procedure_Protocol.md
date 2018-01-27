@@ -10,6 +10,7 @@ Final value message about the document, leading into the table of contents.
 
 - [Core Messages](#core-messages)
 - [Organizational Guidelines](#organizational-guidelines)
+- [Media Contacts](#media-contacts)
 
 ## Core Messages
 
