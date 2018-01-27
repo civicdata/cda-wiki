@@ -1,48 +1,83 @@
 # Media Interview Procedure & Protocol Guide
 
-### When reporters call:
+![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
- - Ask them stuff.
-    * What's your angle? What info do you need?
-    * Who else are you interviewing?
-    * What's your deadline?
- - Notify Civic Data Alliance leadership
+Opening paragraph goes here, introducing the document and its purpose. Why should we refer to this document, what is the value it brings to us as an organization? And what about the value to you as an individual?
 
-### Prepare for interview:
- - Practice your three "messages"
- - Use fascts, figures & anecdotes as support points
- - No jargon. Be brief. Be memorable. Be persuasive.
- 
-### Winning Formula:
-Q -> A ---------------------------------------------------> Message
-Bridge Examples:___________________________Flag Examples
- - Let me put this into context..._________The key thing is... core message.
- - What this means is...________________What's exciting is... core message.
- - But the real question is..._____________The best part is... core message.
- - What I can tell you is...______________Another thing to remember is... core message.
- 
-### Key Message #1
-The Civic Data Alliance is a...lorem ipsum dot.
+Final value message about the document, leading into the table of contents.
 
-### Key Message #2
-Our members do x. Lorem ipsum dot. We also x, y and z.
+## Table of Contents
 
-### Key Message #3
-We're available to a, b and c. Or we can x, y and z.
+- [Core Messages](#core-messages)
+- [Organizational Guidelines](#organizational-guidelines)
 
-### Survival Tips
- - Do not comment on individual groups, people or politicians. 
- - Don't say negatives about the competition.
- - Don't say "no comment" or guess - defer to others.
- - Don't "go off the record". You're never off the record.
- - Don't repeat negative language.
- - 
- ### Speed-dial contacts
-If approached by media, contact Civic Data Alliance leadership.
+## Core Messages
 
-For P/R support/questions, contact:
+The Civic Data Alliance has two core pillars that serve as the cornerstone concepts which inform our mission, messaging, and work.
 
-General contact:
-Emergency PR contact:
- 
+### All the Data
 
+Data is a valuable resource. It can help us understand the worle around us by revealing patterns and abnormalities. This understanding can help us replicate successes and improve upon failures - successes and failures which are affecting real people in their daily lives.
+
+Data helps us predict results, influencing the decisions we make and the justifications we provide.
+
+CDA stands for and promotes parsing, interpreting, visualizing, distributing, and working with, many different kinds of data in a variety of ways. Applications and initiatives utilizing that data to create meaningful change is key to our mission.
+
+### For We the People
+
+Data is only valuable to those with access to it, and those who can and will take action with it. To make data accessible to the citizens it affects, it must be open sourced and transparent.
+
+For this reason, _all_ Civic Data Alliance projects are open sourced and transparent. We strive to connect the communities our projects may impact with skilled volunteers who can aid in creating solutions for the problems they face.
+
+## Organizational Guidelines
+
+### What You Should Do
+
+#### When contacted by media
+
+- Notify [CDA leadership](https://github.com/civicdata/cda-wiki/Leadership.md).
+  - CDA has a [volunteer, elected leadership position](https://github.com/civicdata/cda-wiki/Membership.md) dedicated to dealing with media inquiries. You are always free to speak as an individual, and as a volunteer with CDA - just remember that **official statements from CDA as an organization should come from leadership.**
+- Ask preliminary questions before agreeing to an interview:
+  - What organization are they with?
+  - What information are they looking for?
+  - Who is the audience?
+  - Who else are they interviewing?
+  - What's the deadline?
+  - Why are they covering the event or project, or researching the subject?
+  - What is the angle on the story?
+
+Work with CDA leadership and use your best judgment to determine if you are the best person to speak to about a given event, project, or initiative.
+
+- Preparing for an interview or media statement:
+  - Gather the facts and figures available to you about the topic.
+  - Consider what piece of information is most valuable for the audience to receive.
+  - Collect relevant sources and references for their follow-up afterwards.
+
+- During the interview or in a media statement:
+  - Lead with what CDA is - a volunteer organization putting technology to work for the benefit of our local communities.
+  - Avoid jargon or overly technical language. It is important to be accurate, and it is equally important to be understandable.
+  - Connect the dots between the context, the data, the action, and the core message. Example:
+    - We were approached by `organization/group/individual` to address `problem`. The problem affects `community/group`, and we collaborated on `solution`.
+
+### What You Should Not Do
+
+- **Do not** comment on individual groups, people or politicians. We are a nonpartisan organization.
+- **Do not** comment negatively about competitors, critics, or nay-sayers.
+- **Do not** say "no comment" or guess - it's okay to defer to others.
+- **Do not** "go off the record". You are **never** off the record.
+- **Do not** repeat negative language.
+- **Do not** mix CDA-promotion with self-promotion.
+
+## Civic Data Alliance Media Contacts
+
+Remember, if approached by media, contact CDA [leadership](https://github.com/civicdata/cda-wiki/Leadership.md).
+
+- General public relations support or questions, contact:
+  - `storyteller`
+  - `community organizer`
+- Municipal or Metro matters, contact:
+  - Matthew Gotth-Olsen, Innovation Project Manager, Office of Performance Improvement and Innovation | [Twitter](https://www.twitter.com/mattgolsen) | [Github](https://github.com/mgottholsen)
+- In the event of an emergency:
+  - Anthony Bouvier | [Github](https://github.com/thebouv)
+  - Margeaux Spring | [Github](https://github.com/cheapwebmonkey)
+  - Robert Kahne | [Github](https://github.com/rkahne)
