@@ -5,7 +5,6 @@
 This is a living, growing document that will help you navigate all of our documentation on topics like membership, branding guidelines, project workflow recommendations, and more.
 
 ## Table of Contents
-<<<<<<< HEAD
 * [Introduction](#-introduction)
 * [Code of Conduct](#-code-of-conduct)
 * [New User Guide](#-new-user-guide)
@@ -13,15 +12,6 @@ This is a living, growing document that will help you navigate all of our docume
 * [Leadership](#%EF%B8%8F-leadership)
 * [Project Workflow Recommendations](#-project-workflow-recommendations)
 * [Media Procedure and Protocols](#-media-procedure-protocol)
-=======
-* [Introduction](#introduction)
-* [Code of Conduct](#code-of-conduct)
-* [New User Guide](#new-user-guide)
-* [Membership](#membership)
-* [Leadership](#leadership)
-* [Project Workflow Recommendations](#project-workflow-recommendations)
-* [Media Procedure and Protocols](#media-procedure-protocol)
->>>>>>> 66ce9a1241b198f0fa0f67ce8c038c029ec3224c
 
 ## 👋 Introduction
 
@@ -81,13 +71,10 @@ Additionally, our municipal partnership with Louisville Metro Government offers 
 
 To view our current Leadership and Core Membership, please refer to our [Leadership documentation](/leadership.md).
 
-<<<<<<< HEAD
 ## 📝 Project Workflow Recommendations
 
 CDA typically follows the [Atlassian Gitflow Workflow]() to create robust history and easier maintenance on core repositories and projects. Our recommendation is that you use this flow or a similar one for any CDA-sponsored projects that you contribute to. We ask that you familiarize yourself with them and reach out to [CDA Leadership](/leadership.md) if you have any questions.
 
-=======
->>>>>>> 66ce9a1241b198f0fa0f67ce8c038c029ec3224c
 ## 🎥 Media Procedure and Protocols
 
 If you are approached by a media representative or want to make an official statement regarding CDA as an organization, or a CDA sponsored project, refer to our [Media Procedure and Protocols documentation](/media_procedure_protocol.md) for guidelines you should follow. If you have any questions regarding this process, please reach out to [CDA Leadership](/leadership.md) for clarification.
