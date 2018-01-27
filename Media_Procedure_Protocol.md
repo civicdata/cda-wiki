@@ -16,7 +16,7 @@ The Civic Data Alliance has two core pillars that serve as the cornerstone conce
 
 ### All the Data
 
-Data is a valuable resource. It can help us understand the worle around us by revealing patterns and abnormalities. This understanding can help us replicate successes and improve upon failures - successes and failures which are affecting real people in their daily lives.
+Data is a valuable resource. It can help us understand the world around us by revealing patterns and abnormalities. This understanding can help us replicate successes and improve upon failures - successes and failures which are affecting real people in their daily lives.
 
 Data helps us predict results, influencing the decisions we make and the justifications we provide.
 
@@ -35,7 +35,7 @@ For this reason, _all_ Civic Data Alliance projects are open sourced and transpa
 #### When contacted by media
 
 - Notify [CDA leadership](https://github.com/civicdata/cda-wiki/Leadership.md).
-  - CDA has a [volunteer, elected leadership position](https://github.com/civicdata/cda-wiki/Membership.md) dedicated to dealing with media inquiries. You are always free to speak as an individual, and as a volunteer with CDA - just remember that **official statements from CDA as an organization should come from leadership.**
+  - CDA has a [volunteer, elected leadership position](https://github.com/civicdata/cda-wiki/Membership.md) dedicated to dealing with media inquiries. You are always free to speak as an individual, and as a volunteer with CDA - just remember that **official statements from CDA _as an organization_ should come from leadership.**
 - Ask preliminary questions before agreeing to an interview:
   - What organization are they with?
   - What information are they looking for?
