@@ -2,7 +2,7 @@
 
 # Code of Conduct
 
-_This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._
+_This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._  
 
 ## Code for America's Code of Conduct
 
@@ -60,41 +60,53 @@ We value your attendance and hope that by communicating these expectations widel
 
 We recognise that everyone makes mistakes. We are forgiving, but not lenient. Repeated violations of these rules will results in any actions deemed appropriate by moderators, including warning the offender and removal from the community.
 
-1. **WE ARE INCLUSIVE:**
+CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.  
+
+**WE BEHAVE ETHICALLY:** 
+We expect all members (Core and Regular) of the brigade to conduct themselves in both a legal and ethical matter. This includes: following the process and rules for proposing a project to CDA, housing all CDA projects under the CDA Organization, in their own open repositories, on Github, promoting all CDA projects as community projects, appropriate use of CDA resources, including funds, giving proper attribution to partner organizations, members, or agencies on a project, and appropriate understanding of the elected positions within CDA, the process of elections, and the handing over of the positions during the election and instating process.*  
+
+Examples of unethical behavior that will be subjected to a review of membership are: misuse or misappropriation of CDA funds and resources, claiming contributions to CDA projects without proof of work (private Github repositories will not be considered contributions, nor will be considered CDA projects as they violate the procedures and rules of a CDA project), promotion of a CDA project as personal project or work, promotion of a personal project as a CDA project, deliberate libel or slander against CDA or its members, refusing to step down or relinquish power from an elected position, attempts at deliberate subterfuge of elected positions or CDA itself, intentionally circumventing the values of transparency, openness, education, and engagement, and using CDA for personal gain.*  
+
+**WE ARE INCLUSIVE:**
 Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, and victim blaming. Do not make exclusionary jokes, not even ironically.  
 
-2. **WE ARE INTERSECTIONAL:**
+**WE ARE INTERSECTIONAL:** 
 We expect you to be willing to examine your privilege, language and other habits while you are here, and work on a growing understanding of intersectional feminism. We aim to be a place of learning, but we also expect you to do a lot of the grunt work of understanding basic concepts yourself; use the resources made available to you, search the group for any previous discussions, and search the Internet.
 
-3. **THIS IS A SAFE SPACE:**
+Because we hold to the values of inclusion and intersectionality, and recognize that not all people are given equal standing in many spaces, we commit to the practice of Progressive Stack. Progressive Stack is an intentional valuing and uplifting of marginalized or oppressed voices over those of privilege.The technique works by allowing people to speak on the basis of race, sex, and other group membership, with preference given to members of groups that are seen as the most marginalized. An explanation of the Progressive Stack can be found here. 
+
+**THIS IS A SAFE SPACE:**
 We aim to be a safe space for all our members. We consider impact before intent, and prioritize the safety of marginalised people over the comfort of the privileged. This means that, especially as a white person, you might be called out on problematic behavior. Do not confuse the discomfort this brings with being ‘unsafe’. We expect you to get explicit, enthusiastic consent for any manner of physical contact, including sexual attention, and simulated physical contact in online conversations. Respect boundaries, including, but not limited to, the withdrawal of consent at any time.
 
-4. **RESPECT PRIVACY:**
+**RESPECT PRIVACY:**
 Communication within this space is considered private, and each member is free to decide how much, or how little, they want to share. Do not share photos, screenshots, conversations or other information shared within the group with people outside of our community without the explicit consent of all involved. Do not share personal information of other participants, such as (but not limited to) email, phone number, address, etc. If you have received permission in the past, ask again; circumstances may have changed, and information may no longer be valid.
 
-5. **RESPECT OTHER PEOPLE’S CHOICES:**
+**RESPECT OTHER PEOPLE’S CHOICES:**
 Do not pressure people into doing or trying things they are not comfortable with. Do not mock or denigrate other people’s choices in sexual orientation, gender expression, relationships, employment, style & dress, religion, food & drink, entertainment, or other lifestyle choices. Your path is not theirs, and the options available to them may well be more limited than yours. Respect the agency of others, always, but especially if you disagree.
 
-6. **NOT ALL OPINIONS ARE EQUAL:**
+**NOT ALL OPINIONS ARE EQUAL:**
 We give no quarter to harmful opinions, and will not entertain anyone ‘debating’ their merits. This includes ‘reverse’ anything, whether it’s racism, sexism, or any other axis, as well as white supremacy, white feminism, exclusionary radical feminism of any kind, anti-semitism, any kind of apologism, and the use of ableist language. We respect a woman’s right to make her own choices about her own body. We celebrate the full spectrum of gender expression, sexual orientation, and attraction.
 
-7. **ANGER IS VALID, AGGRESSION IS NOT:**
+**ANGER IS VALID, AGGRESSION IS NOT:**
 The expression of justified anger will not to be policed within this space. Tone policing and the expectation of politeness have long been used as tools for oppression, as reasons for dismissal of valid arguments, and we will not be complicit in propagating that behavior. There is no room for aggression, however; do not let your anger tempt you into violating the rules of this space.
 
-8. **BE EMPATHETIC:**
+**BE EMPATHETIC:**
 We are all learning to be more compassionate, empathetic beings. When someone brings your attention to problematic behavior, thank them, and apologize. Ask permission to ask for clarification or suggestions for how to do better in the future. Do not debate or argue; even if you disagree.
 
-9. **MODERATORS:**
+**MODERATORS:**
 To make sure that the spaces we provide for discussion, whether it’s the Facebook group or an event like a discussion night or film screening, remain safe, we have moderators who will monitor discussions, and intervene if they get out of hand. They have the ability to lock comments on a post, remove a post completely, or remove someone from the group if they are violation of this code of conduct, if that someone is not responsive to warnings. These moderators are volunteers, and, in most cases, will participate like everyone else. If they intervene, however, they assume the greater responsibility that comes with their greater powers, and their word will be law. You are expected to comply, even if you disagree. If you consider a particular intervention to be in violation of these rules, see #11 and #12.
 
-10. **GROUNDS FOR IMMEDIATE REMOVAL:**
-We do not condone threats, violence, hate speech, harrassment, or any other actions that are deemed by moderators to have caused significant harm or distress to members of this group. Such actions are grounds for immediate removal.
+**GROUNDS FOR IMMEDIATE REMOVAL:**
+We do not condone threats, violence, hate speech, harrassment, unethical behaviour, or any other actions that are deemed by moderators to have caused significant harm or distress to members of this group. Such actions are grounds for immediate removal.
 
-11. **REPORTING VIOLATIONS:**
+**REPORTING VIOLATIONS:**
 If someone violates these rules, report them as soon as possible to one of the responsible moderators. For the Facebook group, this is best done by reporting the post via its ‘report to admin’ feature. It you are on Twitter, this is best accomplished by sending a DM to CDA's Twitter account. If you are attending an event, contact one of the organisers.
 
-12. **HANDLING ADMIN AND MODERATOR MISCONDUCT:**
-CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.
+**HANDLING ADMIN AND MODERATOR MISCONDUCT:**
+
+
+*These lists are not comprehensive, but examples of respective behaviors. Any behavior that is deemed questionable will be brought before the Core Membership. 
+
 
 
 :sparkling_heart: _This document is based on the_ [Geek Feminism wiki](http://www.thefeministclub.nl/coc/) :sparkling_heart:
