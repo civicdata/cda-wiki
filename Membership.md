@@ -63,7 +63,7 @@
 
 ---
 
-    ### Code for America - Story Teller
+    ### Code for America - Communications Lead
         * Suggested by Code for America, implemented by Civic Data Alliance as a requirement. *           
 
         Brigades are led by Brigade Captains or Co-Captains.
