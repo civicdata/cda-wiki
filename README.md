@@ -31,7 +31,7 @@ _Civic Data Alliance is a registered 501(c)3 not-for-profit entity [through Code
 
 Before you do anything else, [you need to read our Code of Conduct](/code-of-conduct.md) (CoC) and agree to abide by it by filling out and signing our [membership form](https://cda2.typeform.com/to/zTNiLP). Feel free to continue reading about our membership, projects, etc., but contributing _requires_ agreement to abide by our CoC.
 
-The CoC covers both CfA's requirements _and_ additional inclusive CDA policies on attending events, contributing to projects, and participating in the Slack workspace. It is extremely important that you thoroughly read through the CoC, and reach out to a member of [CDA leadership](#leadership) if you have any questions regarding it.
+The CoC covers both CfA's requirements _and_ additional inclusive CDA policies on attending events, contributing to projects, and participating in the Slack workspace. It is extremely important that you thoroughly read through the CoC, and reach out to a member of [CDA leadership](#%EF%B8%8F-leadership) if you have any questions regarding it.
 
 ## 📘 New User Guide
 
