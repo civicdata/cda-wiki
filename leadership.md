@@ -3,8 +3,8 @@
 ![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
 ## Captains 
-- Margeaux Spring @cheapwebmonkey  
-- Pat Smith @cityresearch
+- Margeaux Spring | [Github](https://github.com/cheapwebmonkey)
+- Pat Smith | [Twitter](https://twitter.com/@cityresearch)
 
 ## Leadership
 - Bethany Patrick, Communications Lead
