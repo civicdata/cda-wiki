@@ -64,7 +64,7 @@ Core members who meet the elibility requirements are able to be nominated and el
 * 2 Captains
 * Developer Advocate
 * Community Organizer
-* Storyteller
+* Communications Lead
 * Delivery Lead
 
 Additionally, our municipal partnership with Louisville Metro Government offers one space for a municipal representative in Core Membership in a _non-voting_ role.
@@ -77,4 +77,4 @@ CDA typically follows the [Atlassian Gitflow Workflow]() to create robust histor
 
 ## 🎥 Media Procedure and Protocols
 
-If you are approached by a media representative or want to make an official statement regarding CDA as an organization, or a CDA sponsored project, refer to our [Media Procedure and Protocols documentation](/media_procedure_protocol.md) for guidelines you should follow. If you have any questions regarding this process, please reach out to [CDA Leadership](/leadership.md) for clarification.
+If you are approached by a media representative or want to make an official statement regarding CDA as an organization, or a CDA sponsored project, refer to our [Media Procedure and Protocols documentation](/media-procedure-protocol.md) for guidelines you should follow. If you have any questions regarding this process, please reach out to [CDA Leadership](/leadership.md) for clarification.
