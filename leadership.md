@@ -8,9 +8,9 @@
 
 ## Leadership
 - Bethany Patrick, Communications Lead
-- Tyler Mullins, Project Lead
-- Aaron Marks, Community Organizer
 - Anthony Bouvier, Developer Advocate
+- Aaron Marks, Community Organizer
+- Tyler Mullins, Delivery Lead
 
 ### Core Members
 - Chris Harrell @lazarusllc  
