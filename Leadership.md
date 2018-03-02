@@ -1,19 +1,19 @@
-## Captains
-Anthony Bouvier @thebouv  
+## Captains 
 Margeaux Spring @cheapwebmonkey  
-Robert Kahne @rkahne  
+Pat Smith @cityresearch
+
+## Leadership
+Bethany Patrick - Communications Lead
+Tyler Mullins - Project Lead 
+Aaron Marks - Community Organizer
+Anthony Bouvier - Developer Advocate
+
 
 ### Core Members
 Chris Harrell @lazarusllc  
-Pat Smith @cityresearch     
-Becky Steele @ladyofsteele   
-Brett Walker  
-Bethany Patrick  
-Aaron Marks  
 Shelley Hicklin  
-Leigh Prince  
-Tyler Mullins @jessetylermullins  
+Leigh Prince   
 Eric Bickel  
-Dawn Howard  
 Mike Culbertson  
 Zach Bouvier
+Cody Mcpheron
