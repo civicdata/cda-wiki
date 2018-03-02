@@ -34,7 +34,7 @@ For this reason, _all_ Civic Data Alliance projects are open sourced and transpa
 
 #### When contacted by media
 
-- Notify [CDA leadership](https://github.com/civicdata/cda-wiki/Leadership.md).
+- Notify [CDA leadership](https://github.com/civicdata/cda-wiki/leadership.md).
   - CDA has a [volunteer, elected leadership position](https://github.com/civicdata/cda-wiki/Membership.md) dedicated to dealing with media inquiries. You are always free to speak as an individual, and as a volunteer with CDA - just remember that **official statements from CDA _as an organization_ should come from leadership.**
 - Ask preliminary questions before agreeing to an interview:
   - What organization are they with?
@@ -69,14 +69,13 @@ Work with CDA leadership and use your best judgment to determine if you are the 
 
 ## Civic Data Alliance Media Contacts
 
-Remember, if approached by media, contact CDA [leadership](https://github.com/civicdata/cda-wiki/Leadership.md).
+Remember, if approached by media, contact CDA [leadership](https://github.com/civicdata/cda-wiki/leadership.md).
 
-- General public relations support or questions, contact:
-  - `storyteller`
-  - `community organizer`
+- General public relations support or questions, contact these members of leadership:
+  - `Communications Lead`
+  - `Community Organizer`
 - Municipal or Metro matters, contact:
   - Matthew Gotth-Olsen, Innovation Project Manager, Office of Performance Improvement and Innovation | [Twitter](https://www.twitter.com/mattgolsen) | [Github](https://github.com/mgottholsen)
 - In the event of an emergency:
-  - Anthony Bouvier | [Github](https://github.com/thebouv)
   - Margeaux Spring | [Github](https://github.com/cheapwebmonkey)
-  - Robert Kahne | [Github](https://github.com/rkahne)
+  - Pat Smith | [Twitter](https://twitter.com/cityresearch)
