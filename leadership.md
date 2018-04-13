@@ -7,10 +7,10 @@
 - Pat Smith | [Twitter](https://twitter.com/@cityresearch)
 
 ## Leadership
-- Bethany Patrick, Communications Lead
+- VACANT, Communications Lead
 - Anthony Bouvier, Developer Advocate
 - Aaron Marks, Community Organizer
-- Tyler Mullins, Delivery Lead
+- VACANT, Delivery Lead
 
 ### Core Members
 - Chris Harrell @lazarusllc  
@@ -20,3 +20,5 @@
 - Mike Culbertson  
 - Zach Bouvier
 - Cody Mcpheron
+- Virginia Gotth-Olsen
+- Ethan Epping
