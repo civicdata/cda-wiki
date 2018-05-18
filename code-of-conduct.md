@@ -1,6 +1,6 @@
 # Code of Conduct
 
-_This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._  
+_This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._
 
 ![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
@@ -39,6 +39,8 @@ Code for America is dedicated to providing a harassment-free experience for ever
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, unwelcome sexual attention, unwarranted exclusion, gaslighting, tone-policing, sealioning, and patronizing language or action.
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums.
 
+Harassment can also include persistent private communications (direct messages, text messages, etc). CDA members should publicly get permission from anyone with whom they would like to communicate privately before initiating such communication. It is up to the initiator of the conversation to gain this permission and, when in doubt, they should re-confirm they have this permission, publicly. This permission can be rescinded at any time and, upon being told that private communications are no longer desired, the communication must cease immediately without further comment - including any messages intended to confirm that the request to cease communications is understood. It is expected that once permission to communicate privately is rescinded, no other words will be exchanged privately without regaining permission in a public forum. Failure to obtain permission or failure to cease communications when permission has been revoked constitutes harassment and is a violation of the CDA Code of Conduct. 
+
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can [__contact them here__](margeaux@civicdataalliance.org). Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
@@ -59,20 +61,20 @@ We value your attendance and hope that by communicating these expectations widel
 
 We recognise that everyone makes mistakes. We are forgiving, but not lenient. Repeated violations of these rules will results in any actions deemed appropriate by moderators, including warning the offender and removal from the community.
 
-CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.  
+CDA is run by volunteers, people who make mistakes just like anyone else, and none of us are above reproach. Please report any violations of these rules by admins or moderator to a different admin or moderator.
 
-**WE BEHAVE ETHICALLY:** 
-We expect all members (Core and Regular) of the brigade to conduct themselves in both a legal and ethical matter. This includes: following the process and rules for proposing a project to CDA, housing all CDA projects under the CDA Organization, in their own open repositories, on Github, promoting all CDA projects as community projects, appropriate use of CDA resources, including funds, giving proper attribution to partner organizations, members, or agencies on a project, and appropriate understanding of the elected positions within CDA, the process of elections, and the handing over of the positions during the election and instating process.*  
+**WE BEHAVE ETHICALLY:**
+We expect all members (Core and Regular) of the brigade to conduct themselves in both a legal and ethical matter. This includes: following the process and rules for proposing a project to CDA, housing all CDA projects under the CDA Organization, in their own open repositories, on Github, promoting all CDA projects as community projects, appropriate use of CDA resources, including funds, giving proper attribution to partner organizations, members, or agencies on a project, and appropriate understanding of the elected positions within CDA, the process of elections, and the handing over of the positions during the election and instating process.*
 
-Examples of unethical behavior that will be subjected to a review of membership are: misuse or misappropriation of CDA funds and resources, claiming contributions to CDA projects without proof of work (private Github repositories will not be considered contributions, nor will be considered CDA projects as they violate the procedures and rules of a CDA project), promotion of a CDA project as personal project or work, promotion of a personal project as a CDA project, deliberate libel or slander against CDA or its members, refusing to step down or relinquish power from an elected position, attempts at deliberate subterfuge of elected positions or CDA itself, intentionally circumventing the values of transparency, openness, education, and engagement, and using CDA for personal gain.*  
+Examples of unethical behavior that will be subjected to a review of membership are: misuse or misappropriation of CDA funds and resources, claiming contributions to CDA projects without proof of work (private Github repositories will not be considered contributions, nor will be considered CDA projects as they violate the procedures and rules of a CDA project), promotion of a CDA project as personal project or work, promotion of a personal project as a CDA project, deliberate libel or slander against CDA or its members, refusing to step down or relinquish power from an elected position, attempts at deliberate subterfuge of elected positions or CDA itself, intentionally circumventing the values of transparency, openness, education, and engagement, and using CDA for personal gain.*
 
 **WE ARE INCLUSIVE:**
-Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, and victim blaming. Do not make exclusionary jokes, not even ironically.  
+Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, and victim blaming. Do not make exclusionary jokes, not even ironically.
 
-**WE ARE INTERSECTIONAL:** 
+**WE ARE INTERSECTIONAL:**
 We expect you to be willing to examine your privilege, language and other habits while you are here, and work on a growing understanding of intersectional feminism. We aim to be a place of learning, but we also expect you to do a lot of the grunt work of understanding basic concepts yourself; use the resources made available to you, search the group for any previous discussions, and search the Internet.
 
-Because we hold to the values of inclusion and intersectionality, and recognize that not all people are given equal standing in many spaces, we commit to the practice of Progressive Stack. Progressive Stack is an intentional valuing and uplifting of marginalized or oppressed voices over those of privilege.The technique works by allowing people to speak on the basis of race, sex, and other group membership, with preference given to members of groups that are seen as the most marginalized. An explanation of the Progressive Stack can be found here. 
+Because we hold to the values of inclusion and intersectionality, and recognize that not all people are given equal standing in many spaces, we commit to the practice of Progressive Stack. Progressive Stack is an intentional valuing and uplifting of marginalized or oppressed voices over those of privilege.The technique works by allowing people to speak on the basis of race, sex, and other group membership, with preference given to members of groups that are seen as the most marginalized. An explanation of the Progressive Stack can be found here.
 
 **THIS IS A SAFE SPACE:**
 We aim to be a safe space for all our members. We consider impact before intent, and prioritize the safety of marginalised people over the comfort of the privileged. This means that, especially as a white person, you might be called out on problematic behavior. Do not confuse the discomfort this brings with being ‘unsafe’. We expect you to get explicit, enthusiastic consent for any manner of physical contact, including sexual attention, and simulated physical contact in online conversations. Respect boundaries, including, but not limited to, the withdrawal of consent at any time.
@@ -104,7 +106,7 @@ If someone violates these rules, report them as soon as possible to one of the r
 **HANDLING ADMIN AND MODERATOR MISCONDUCT:**
 
 
-*These lists are not comprehensive, but examples of respective behaviors. Any behavior that is deemed questionable will be brought before the Core Membership. 
+*These lists are not comprehensive, but examples of respective behaviors. Any behavior that is deemed questionable will be brought before the Core Membership.
 
 
 
