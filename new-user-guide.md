@@ -39,7 +39,7 @@ _CDA is a not-for-profit organization, with registered 501(c)3 status [through C
 
 #### Choosing a project
 
-We often have many ongoing projects with different teams of volunteers, so you will need to find some project(s) that have ways for you to contribute. Finding out what projects are underway is as simple as checking out the [Civic Data Alliance Organization on Github](https://github.com/civicdata) and looking through the list of repositories. Each repository is an individual project that you may be able to contribute to!
+We often have many ongoing projects with different teams of volunteers, so you will need to find some project(s) that have ways for you to contribute. Finding out what projects are underway is as simple as checking out the [Civic Data Alliance Organization on Github](https://github.com/civicdata) and checking the "[Good First Issues](https://github.com/orgs/civicdata/projects/6)" board. Each repository is an individual project that you may be able to contribute to!
 
 Every project should include documentation with, at a minimum, these included:
 
