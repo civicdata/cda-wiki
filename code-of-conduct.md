@@ -4,9 +4,9 @@ _This is a living document and as such, it can and will be adjusted by Civic Dat
 
 ![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
-## Code for America's Code of Conduct
+## Civic Data Alliance - Code of Conduct
 
-### The Code for America community expects that Code for America network activities, events, and digital forums:
+### The Civic Data Alliance community expects that Code for America network activities, events, and digital forums:
 
 * Are a safe and respectful environment for all participants.
 * Are a place where people are free to fully express their identities.
@@ -22,22 +22,21 @@ _This is a living document and as such, it can and will be adjusted by Civic Dat
 * Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 * Provide an environment where people are free from discrimination or harassment.
 
-_Code for America reserves the right to ask anyone in violation of these policies to refrain from participating in Code for America network activities, events, and digital forums._
+_Civic Data Alliance reserves the right to ask anyone in violation of these policies to refrain from participating in Civic Data Alliance network activities, events, and digital forums._
 
-### Code for America's Anti-Harassment Policy
+### Civic Data Alliance's Anti-Harassment Policy
 
 This anti-harassment policy is based on the example policy from the [Geek Feminism wiki](http://www.thefeministclub.nl/coc/), created by the Ada Initiative and other volunteers.
 
 This policy is based on several other policies, including the Feminist Group of Amsterdam, Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
-All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+All CDA network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, see this guide.
+In addition to governing our own events by this policy, CDA will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, see this guide.
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+CDA is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any CDA event or network activity, including talks. Anyone in violation of these policies may expelled from CDA network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
-Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, unwelcome sexual attention, unwarranted exclusion, gaslighting, tone-policing, sealioning, and patronizing language or action.
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums.
+Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, unwelcome sexual attention, unwarranted exclusion, gaslighting, tone-policing, sealioning, and patronizing language or action. If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums.
 
 Harassment can also include persistent private communications (direct messages, text messages, etc). CDA members should publicly get permission from anyone with whom they would like to communicate privately before initiating such communication. It is up to the initiator of the conversation to gain this permission and, when in doubt, they should re-confirm they have this permission, publicly. This permission can be rescinded at any time and, upon being told that private communications are no longer desired, the communication must cease immediately without further comment - including any messages intended to confirm that the request to cease communications is understood. It is expected that once permission to communicate privately is rescinded, no other words will be exchanged privately without regaining permission in a public forum. Failure to obtain permission or failure to cease communications when permission has been revoked constitutes harassment and is a violation of the CDA Code of Conduct. 
 
@@ -45,7 +44,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+CDA acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
@@ -57,7 +56,7 @@ We value your attendance and hope that by communicating these expectations widel
 >
 > You can reach me at (CONTACT INFO). Thank you.
 
-## In addition to the CfA CoC, CDA observes and enforces the following:
+## In addition to the CoC, CDA observes and enforces the following:
 
 We recognise that everyone makes mistakes. We are forgiving, but not lenient. Repeated violations of these rules will results in any actions deemed appropriate by moderators, including warning the offender and removal from the community.
 
