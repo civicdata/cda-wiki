@@ -19,7 +19,7 @@ Welcome! We are glad you are here, and we would be happy to provide an orientati
 
 ### Civic Data Alliance
 
-Founded in 2014, the [Civic Data Alliance](www.civicdataalliance.org) (CDA) is Louisville’s [Code for America](https://www.codeforamerica.org/) (CfA) Brigade and we are committed to transparent, accessible, and open data.
+Founded in 2014, the [Civic Data Alliance](www.civicdataalliance.org) (CDA) is Louisville’s own commmunity tech organizaton and we are committed to transparent, accessible, and open data.
 
 We create and facilitate innovative solutions to public problems through collaborative hackathons, coding education, and accessible civic engagement.
 
@@ -41,35 +41,22 @@ Our [New User Guide](/new-user-guide.md) is the best starting point for members 
 
 ## 👩 Membership
 
-CDA is a totally volunteer organization, made up of general members and core members, who fill several distinct roles in maintaining our relationships with CfA, municipal partners, and our own membership-at-large.
+CDA is a totally volunteer organization, made up of community members, who fill several distinct roles in maintaining our relationships with the community, municipal partners, and our own membership-at-large.
 
 You can more comprehensive documentation in our [Membership Guide](/membership.md).
 
 ### General Members
 
-General members have [signed our membership form](https://cda2.typeform.com/to/zTNiLP) and agreed to commit a small portion of their time to CDA events and proejcts. They are given access to our Slack workspace as well as relevant project contribution permissions on Github.
+General members have [signed our membership form](https://cda2.typeform.com/to/zTNiLP) and agreed to commit a small portion of their time to CDA events and projects. They are given access to our Slack workspace as well as relevant project contribution permissions on Github.
 
-### Core Members
+### Members
 
-Core members have fulfilled the requirements of general membership as well as agreeing to an additional commitment of time and responsibility in facilitating events, leading and coordinating projects, and being accessible to the general membership and others on any questions or concerns.
+Members have fulfilled the requirements of general membership as well as agreeing to an additional commitment of time and responsibility in facilitating events, leading and coordinating projects, and being accessible to the community as facilitators of the communities goals and mission.
 
-All CDA maintenance of policies, procedures, day-to-day activities is facilitated by Core Members who participate in thorough discussion and transparent voting during elections.
+All CDA maintenance of policies, procedures, day-to-day activities is facilitated by Members who participate in thorough and transparent discussion.
 
 Please refer to our [Membership Guide](/membership.md) for more information, or reach out to [CDA Leadership](/leadership.md) with questions.
 
-## ⚖️ Leadership
-
-Core members who meet the elibility requirements are able to be nominated and elected into one of 6 different leadership positions:
-
-* 2 Captains
-* Developer Advocate
-* Community Organizer
-* Communications Lead
-* Delivery Lead
-
-Additionally, our municipal partnership with Louisville Metro Government offers one space for a municipal representative in Core Membership in a _non-voting_ role.
-
-To view our current Leadership and Core Membership, please refer to our [Leadership documentation](/leadership.md).
 
 ## 📝 Project Workflow Recommendations
 
