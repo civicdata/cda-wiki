@@ -6,14 +6,13 @@ _This is a living document and as such, it can and will be adjusted by Civic Dat
 
 ## Civic Data Alliance - Code of Conduct
 
-### The Civic Data Alliance community expects that Code for America network activities, events, and digital forums:
+### The Civic Data Alliance community expects that our network activities, events, and digital forums:
 
 * Are a safe and respectful environment for all participants.
 * Are a place where people are free to fully express their identities.
 * Presume the value of others. Everyone’s ideas, skills, and contributions have value.
 * Don’t assume everyone has the same context, and encourage questions.
 * Find a way for people to be productive with their skills (technical and not) and energy.
-* Use language such as “yes/and”, not “no/but.”
 * Encourage members and participants to listen as much as they speak.
 * Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
 * Prioritize access for and input from those who are traditionally excluded from the civic process.
@@ -36,7 +35,7 @@ In addition to governing our own events by this policy, CDA will only lend our b
 
 CDA is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any CDA event or network activity, including talks. Anyone in violation of these policies may expelled from CDA network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
-Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, unwelcome sexual attention, unwarranted exclusion, gaslighting, tone-policing, sealioning, and patronizing language or action. If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums.
+Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, unwelcome sexual attention, unwarranted exclusion, gaslighting, tone-policing, sealioning, and patronizing language or action. If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from our network activities, events, and digital forums.
 
 Harassment can also include persistent private communications (direct messages, text messages, etc). CDA members should publicly get permission from anyone with whom they would like to communicate privately before initiating such communication. It is up to the initiator of the conversation to gain this permission and, when in doubt, they should re-confirm they have this permission, publicly. This permission can be rescinded at any time and, upon being told that private communications are no longer desired, the communication must cease immediately without further comment - including any messages intended to confirm that the request to cease communications is understood. It is expected that once permission to communicate privately is rescinded, no other words will be exchanged privately without regaining permission in a public forum. Failure to obtain permission or failure to cease communications when permission has been revoked constitutes harassment and is a violation of the CDA Code of Conduct. 
 
@@ -52,7 +51,7 @@ We value your attendance and hope that by communicating these expectations widel
 
 >SUBJECT: Safe Space alert at Civic Data Alliance
 >
->I am writing because of harassment at a CDA/Code for America Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
+>I am writing because of harassment at a CDA Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
 >
 > You can reach me at (CONTACT INFO). Thank you.
 
